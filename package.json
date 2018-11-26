@@ -1,7 +1,7 @@
 {
   "name": "csv-to-markdown",
   "main": "./lib/csv-to-markdown",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "Inkdrop plugin that converts CSV text to a Markdown table.",
   "keywords": [
     "csv",
