@@ -1,0 +1,14 @@
+{
+  ".platform-darwin .CodeMirror": {
+    "cmd-ctrl-t": "csv-to-markdown"
+  },
+  ".platform-linux .CodeMirror": {
+    "cmd-ctrl-t": "csv-to-markdown"
+  },
+  ".platform-win32 .CodeMirror": {
+    "cmd-ctrl-t": "csv-to-markdown"
+  },
+  ".CodeMirror": {
+    "cmd-ctrl-t": "csv-to-markdown"
+  }
+}

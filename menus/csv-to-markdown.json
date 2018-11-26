@@ -1,0 +1,15 @@
+{
+  "context-menu": {
+    ".CodeMirror": [{
+      "label": "Convert CSV to Markdown Table",
+      "command": "csv-to-markdown"
+    }]
+  },
+  "menu": [{
+    "label": "Plugins",
+    "submenu": [{
+      "label": "Convert CSV to Markdown Table",
+      "command": "csv-to-markdown"
+    }]
+  }]
+}
