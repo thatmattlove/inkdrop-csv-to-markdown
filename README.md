@@ -36,7 +36,7 @@ Which then reders as this:
 | Cell 1:2  | Cell 2:2  | Cell 3:2  | 
 | Cell 1:3  | Cell 2:3  | Cell 3:3  | 
 
-![inkdrop-csv-to-markdown.gif](https://github.com/checktheroads/inkdrop-csv-to-markdown/raw/mmaster/assets/inkdrop-csv-to-markdown.gif)
+![inkdrop-csv-to-markdown.gif](./assets/inkdrop-csv-to-markdown.gif)
 
 ## Installation
 From Inkdrop Package Manager (`ipm`), run the command:
