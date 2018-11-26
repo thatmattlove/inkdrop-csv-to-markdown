@@ -36,6 +36,20 @@ Which then reders as this:
 | Cell 1:2  | Cell 2:2  | Cell 3:2  | 
 | Cell 1:3  | Cell 2:3  | Cell 3:3  | 
 
+![inkdrop-csv-to-markdown.gif](https://github.com/checktheroads/inkdrop-csv-to-markdown/raw/mmaster/assets/inkdrop-csv-to-markdown.gif)
+
+## Installation
+From Inkdrop Package Manager (`ipm`), run the command:
+
+```
+ipm install csv-to-markdown
+```
+## Usage
+Activate the plugin by:
+* Navigating to **Plugins** → **Convert CSV to Markdown Table**
+* Selecting & right clicking on your CSV-formatted table and selecting **Convert CSV to Markdown Table**
+* Selecting your CSV-formatted table and pressing **`Cmd`+`Ctrl`+`T`**
+
 ## Notes
 
 >*Disclaimer: I'm a network engineer, not a developer, so I know not what I do. Please educate me if I've done something wrong here.*
